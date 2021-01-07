@@ -16,6 +16,10 @@
   ![image](https://user-images.githubusercontent.com/58024415/103783724-18049200-505f-11eb-994a-854e6259d646.png)
   
 # Create Jenkins job with Jenkinsfile content and click on GitHub hook trigger for GITScm polling as shown below
+
+    Select Generic Webhook Trigger under Manage Plugin in Managejenkins
+    Create freestyle project with github-webhook (any name)
+    
   ![image](https://user-images.githubusercontent.com/58024415/103785745-96623380-5061-11eb-8151-8fcde6439553.png)
   
   Click on Build
