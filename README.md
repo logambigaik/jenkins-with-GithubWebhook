@@ -20,6 +20,9 @@
     Select Generic Webhook Trigger under Manage Plugin in Managejenkins
     Create freestyle project with github-webhook (any name)
     
+   ![Capture](https://user-images.githubusercontent.com/54719289/103940218-06041b80-5153-11eb-9463-92b15029fa26.JPG)
+
+    
   ![image](https://user-images.githubusercontent.com/58024415/103785745-96623380-5061-11eb-8151-8fcde6439553.png)
   
   Click on Build
