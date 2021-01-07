@@ -29,6 +29,10 @@
 
   ![image](https://user-images.githubusercontent.com/58024415/103784987-a75e7500-5060-11eb-8b77-bc7f703cde10.png)
   
+  ![Capture](https://user-images.githubusercontent.com/54719289/103941199-85461f00-5154-11eb-98c9-16c4046e9d53.JPG)
+
+  No Build action in Jenkins but build happended automatically
+  
 # Change code in Github repo
   Build will happen automatically as show in below image
   
