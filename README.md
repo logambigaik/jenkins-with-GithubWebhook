@@ -18,6 +18,7 @@
   ![Capture](https://user-images.githubusercontent.com/54719289/104009295-d136a980-51d0-11eb-98cf-4ba0723a5ffc.JPG)
   
   After adding webhook,
+  
   ![Capture](https://user-images.githubusercontent.com/54719289/104009429-08a55600-51d1-11eb-9274-3df584ea9e26.JPG)
 
   
@@ -25,23 +26,25 @@
 
     Select Generic Webhook Trigger under Manage Plugin in Managejenkins
     Create freestyle project with github-webhook (any name)
-    ![Capture](https://user-images.githubusercontent.com/54719289/104009522-37bbc780-51d1-11eb-9fe1-0b34469dfb62.JPG)
+    
+  ![Capture](https://user-images.githubusercontent.com/54719289/104009522-37bbc780-51d1-11eb-9fe1-0b34469dfb62.JPG)
     
       
   
   
   Click on Build
   
-    ![Capture](https://user-images.githubusercontent.com/54719289/104009690-70f43780-51d1-11eb-9401-af5efa37fcfd.JPG)
+  ![Capture](https://user-images.githubusercontent.com/54719289/104009690-70f43780-51d1-11eb-9401-af5efa37fcfd.JPG)
      
 
 
   No Build action in Jenkins but build happended automatically
   
 # Change code in Github repo
+  
   Build will happen automatically as show in below image
   
-  ![Capture](https://user-images.githubusercontent.com/54719289/104009046-68e7c800-51d0-11eb-935f-690570ca91f7.JPG)
+ ![Capture](https://user-images.githubusercontent.com/54719289/104009046-68e7c800-51d0-11eb-935f-690570ca91f7.JPG)
 
 
 
