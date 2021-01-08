@@ -9,9 +9,7 @@
   Goto github --> settings --> webhook --> Add webhook
   Provide Jenkins url as shown in below image  but after port please specify the github-webhook its mandatory or else automatic build wont happen.
   
-  
-  
-  ![image](https://user-images.githubusercontent.com/58024415/103783684-0c18d000-505f-11eb-8896-1a3036c2ac04.png)
+   
   
   Click on Add Webook
   
